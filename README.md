@@ -21,4 +21,9 @@ logic output is connected to `VGA_Controller.v` in `topModule.v` .
 
 VGA_Controller outputs used in `.ucf` file .
 ## Contacts
-ZahraSarami : z.sarami81@gmail.com
+Zahra Sarami : z.sarami81@gmail.com
+Alireza Falakian : ali.falakian20@gmail.com
+Mohammad Sadegh Montazeri : sadeghmomo2020@gmail.com
+Ali Ghafoori : 444ghafoori@gmail.com
+Mohadeseh Salimian
+Behnaz Aalipur
